@@ -1,0 +1,24 @@
+/* solo fondo*/
+html {
+background-image: url(../imagenes/Estilos/FCarros.jpg);
+background-color: black;
+background-repeat: no-repeat;
+background-position: center top;
+background-size: 100% auto;
+}
+.loginform  {
+  margin: 20px auto;
+  text-align: center;
+  color: white ;
+/*  padding: 30px 25px;
+ background: white;
+ border: 1px solid red;*/
+
+}
+.loginform table {
+  margin: auto;
+}
+input{
+  border-radius: 4px;
+  margin: 2px;
+}

@@ -1,0 +1,38 @@
+/*infor text*/
+#acordion section p {
+display: none;
+}
+/*texto preguntas*/
+#acordion section a {
+  text-decoration: none;
+  color: black;
+  text-align: justify;
+  font-family: arial;
+  font-size: 14px;
+
+}
+/*Txt decoracion preguntas*/
+#acordion section a:hover {
+}
+/*texto interno */
+#acordion section:target p {
+display: block;
+color: black;
+background-color: silver;
+text-align: justify;
+font-size: 14px;
+font-family: arial;
+
+}
+/*
+h1{
+    text-align: center!important;
+}
+*/
+
+h4{
+  font-family: arial;
+  font-size: 16px;
+  text-align: justify;
+
+}

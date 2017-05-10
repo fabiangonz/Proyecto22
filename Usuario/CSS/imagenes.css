@@ -1,0 +1,35 @@
+html{
+  background-color: #ffffff !important;
+  min-height: 100%!important;
+  position:relative!important;
+}
+.a1a{
+  text-align:center;
+}
+.a1a img {
+
+  width: 60%;
+}
+h1{
+   font-family: verdana !important;
+
+}
+
+p{
+text-align:  justify;
+font-family: arial;
+font-size: small;
+
+}
+.im1 {
+
+text-align: center;
+float: left;
+width: 300px;
+height: 390px;
+border: 1px solid black;
+padding: 5px;
+margin: 20px;
+margin-bottom: 50px;
+
+}
